@@ -2,7 +2,7 @@
 
 <link href='http://fonts.googleapis.com/css?family=Clicker+Script' rel='stylesheet' type='text/css'>
  <link href='http://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js" type="text/javascript"><!--mce:0--></script>
+<script src="theme2/jQuery" type="text/javascript"><!--mce:0--></script>
 <script src="toggle.js" type="text/javascript"><!--mce:1--></script>
 <script type="text/javascript">
 $(document).ready(function(){
